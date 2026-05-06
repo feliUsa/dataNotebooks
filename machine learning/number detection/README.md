@@ -37,7 +37,7 @@ Clonar el Repositorio
 
 bash
 
-    git clone https://github.com/daniela1612022/Proyecto.git
+    git clone
     cd Proyecto
 
 Configurar el Entorno Virtual
@@ -65,8 +65,5 @@ Las pruebas se pueden realizar utilizando el archivo test.ipynb, disponible en l
 Licencia 📄
 
 Este proyecto está bajo la Licencia MIT, que permite el uso, copia, modificación, fusión, publicación, distribución, sublicencia, y/o venta de copias del software, y permite a las personas a quienes se les proporcione el software hacer lo mismo, siempre que se incluya el aviso de derechos de autor y las condiciones de la licencia en todas las copias o partes sustanciales del software.
-Autores 👥
 
-    Daniela Pinzon
-    Miguel Thomas
-    Daniel Oviedo
+Proyecto realizado en conjunto de mis compañeros Daniela Pinzon, Miguel Thomas y Daniel Oviedo
